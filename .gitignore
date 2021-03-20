@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/pledged
+pledged.so
+pledged.dylib
+pledged.dll
+pledged.a
+pledged.lib
+pledged-test-*
+*.exe
+*.o
+*.obj
+*.lst

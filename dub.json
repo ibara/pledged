@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"Brian Callahan"
+	],
+	"copyright": "Copyright © 2021, Brian Callahan",
+	"description": "Bindings for OpenBSD pledge(2).",
+	"license": "ISC",
+	"name": "pledged",
+        "configurations": [
+                {
+                        "name": "library",
+                        "targetType": "library"
+                }
+        ]
+}
