@@ -3,7 +3,7 @@
 		"Brian Callahan"
 	],
 	"copyright": "Copyright © 2021, Brian Callahan",
-	"description": "Bindings for OpenBSD pledge(2).",
+	"description": "Bindings for OpenBSD pledge(2) and unveil(2).",
 	"license": "ISC",
 	"name": "pledged",
         "configurations": [
